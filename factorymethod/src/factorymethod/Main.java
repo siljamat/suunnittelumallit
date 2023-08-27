@@ -12,4 +12,4 @@ public class Main {
         AterioivaOtus siivooja = new Siivooja();
         siivooja.aterioi();
     }
-} 
+}
